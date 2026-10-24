@@ -47,8 +47,8 @@ Install Node.js, MySQL Server, and Git. Postman is recommended for API testing.
 ### 2. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd ecommerce-management
+git clone https://github.com/saikirancs06/ecommerce-management-api.git
+cd ecommerce-management-api
 ```
 
 ### 3. Install dependencies
